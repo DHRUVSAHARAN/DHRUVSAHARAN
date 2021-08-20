@@ -1,4 +1,5 @@
-# a program to print contants of a directonary using os module 
-import os 
-print (os.listdir())
-#done
+#make a program to compare two int 
+# ok 
+a = 34 
+b = 80 
+print ("is a bigger than b ", a >b)

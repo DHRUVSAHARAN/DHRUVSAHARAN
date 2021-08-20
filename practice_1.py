@@ -1,6 +1,7 @@
-# make a program to print the poem twinke .....star
+# write a program to add two numbers  
 # ok
-print ('''twinkle twnnkle little star 
-how i wonder what you are ...
-..... the sky''')
-#done :D
+a = 995
+b = 5
+
+print ("the sum of 955 and 5 is ",a +b)
+# done

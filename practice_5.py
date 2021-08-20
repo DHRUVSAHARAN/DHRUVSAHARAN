@@ -1,11 +1,10 @@
-#que 4 with comments of author/date/place
+# find the average of two numbers 
+# ok 
+a = input ("enter the first number: ")
+a = int (a)
+b = input ("enter the second number: ")
+b = int (b)
+avg = (a +b)/2
+print  ("the value of avg of a and b is  ",avg)
 
 
-# author:dhruv sharan
-# place:earth
-# date:8 august 2021
-import os 
-print (os.listdir())
-
-#done
-#tip use ctrl+forward slash (/) to make a comment
